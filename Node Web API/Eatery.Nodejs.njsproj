@@ -4,7 +4,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{3ef3f9d3-bd1c-4d2c-9034-2c2f82e70cd8}</ProjectGuid>
-    <ProjectHome>KaamKaaj\</ProjectHome>
+    <ProjectHome>Eatery\</ProjectHome>
     <ProjectView>ProjectFiles</ProjectView>
     <StartupFile>server.js</StartupFile>
     <WorkingDirectory>.</WorkingDirectory>
