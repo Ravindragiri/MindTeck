@@ -15,6 +15,8 @@ namespace Eatery.DTO
         }
 
         public int? ID { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
         public int? UserID { get; set; }
         public string Province { get; set; }
         public string City { get; set; }

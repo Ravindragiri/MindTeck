@@ -25,3 +25,30 @@ C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.DAL.Reposi
 C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\obj\Debug\Eatery.DAL.Repository.csproj.CopyComplete
 C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\obj\Debug\Eatery.DAL.Repository.dll
 C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\obj\Debug\Eatery.DAL.Repository.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Eatery.DAL.Repository.dll.config
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Eatery.DAL.Repository.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Eatery.DAL.Repository.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Eatery.Common.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Eatery.DAL.Repository.Interface.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Eatery.DataContracts.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Eatery.DTO.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\EntityFramework.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\AutoMapper.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Eatery.Common.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Eatery.DAL.Repository.Interface.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Eatery.DAL.Repository.Interface.dll.config
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Eatery.DataContracts.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Eatery.DTO.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\EntityFramework.xml
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\AutoMapper.xml
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\obj\Debug\Eatery.DAL.Repository.csprojAssemblyReference.cache
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\obj\Debug\Eatery.DAL.Repository.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\obj\Debug\Eatery.DAL.Repository.csproj.CopyComplete
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\obj\Debug\Eatery.DAL.Repository.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DAL.Repository\obj\Debug\Eatery.DAL.Repository.pdb

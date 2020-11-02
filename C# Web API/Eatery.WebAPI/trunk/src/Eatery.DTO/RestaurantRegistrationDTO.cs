@@ -13,10 +13,8 @@ namespace Eatery.DTO
             this.ResponseMessageDTO = new ResponseMessageDTO();
         }
         public RestaurantDTO RestaurantDTO { get; set; }
-        public UserDTO UserDTO { get; set; }
+        public int UserID { get; set; }
         public ResponseMessageDTO ResponseMessageDTO { get; set; }
-
-        
     }
 
     

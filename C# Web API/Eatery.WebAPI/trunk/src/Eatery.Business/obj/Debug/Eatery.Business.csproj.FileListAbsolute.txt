@@ -30,3 +30,35 @@ C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business\o
 C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business\obj\Debug\Eatery.Business.csproj.CopyComplete
 C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business\obj\Debug\Eatery.Business.dll
 C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business\obj\Debug\Eatery.Business.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.Business.dll.config
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.Business.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.Business.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.Business.Interface.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.Common.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.DAL.Repository.Interface.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.DataContracts.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.DTO.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\EntityFramework.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\MultipartDataMediaFormatter.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\AutoMapper.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\System.Net.Http.Formatting.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.Business.Interface.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.Common.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.DAL.Repository.Interface.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.DAL.Repository.Interface.dll.config
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.DataContracts.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Eatery.DTO.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\EntityFramework.xml
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\AutoMapper.xml
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\System.Net.Http.Formatting.xml
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\obj\Debug\Eatery.Business.csprojAssemblyReference.cache
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\obj\Debug\Eatery.Business.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\obj\Debug\Eatery.Business.csproj.CopyComplete
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\obj\Debug\Eatery.Business.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.Business\obj\Debug\Eatery.Business.pdb

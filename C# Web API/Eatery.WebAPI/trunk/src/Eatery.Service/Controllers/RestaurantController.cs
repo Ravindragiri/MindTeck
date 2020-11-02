@@ -48,7 +48,7 @@ namespace Eatery.Service.Controllers
         }
 
         [HttpPost]
-        public IHttpActionResult Register(RestaurantRegistrationDTO RestaurantRegistration)
+        public IHttpActionResult RegisterOwnerWithRestaurant(RegisterOwnerWithRestaurantDTO RestaurantRegistration)
         {
             try
             {
@@ -76,7 +76,7 @@ namespace Eatery.Service.Controllers
                     }
 
 
-                    RestaurantRegistration = this._RestaurantBL.Register(RestaurantRegistration);
+                    RestaurantRegistration = this._RestaurantBL.RegisterOwnerWithRestaurant(RestaurantRegistration);
                     if (RestaurantRegistration.UserDTO.ID > 0 &&
                         RestaurantRegistration.RestaurantDTO.ID > 0)
                     {
@@ -106,21 +106,21 @@ namespace Eatery.Service.Controllers
         }
 
         [HttpPost]
-        public IHttpActionResult RegisterRestaurant(RestaurantRegistrationDTO RestaurantRegistration)
+        public IHttpActionResult Register(RestaurantRegistrationDTO restaurantRegistrationDTO)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
-                    UserDTO UserDTO = RestaurantRegistration.UserDTO;
+                    RestaurantDTO restaurantDTO = restaurantRegistrationDTO.RestaurantDTO;
+                    int userID = restaurantRegistrationDTO.UserID;
                     
-                    RestaurantRegistration = this._RestaurantBL.RegisterRestaurant(RestaurantRegistration);
-                    if (RestaurantRegistration.UserDTO.ID > 0 &&
-                        RestaurantRegistration.RestaurantDTO.ID > 0)
+                    restaurantDTO = this._RestaurantBL.Register(restaurantDTO, userID);
+                    if (restaurantDTO.ID > 0)
                     {
                         return Ok(new
                         {
-                            data = RestaurantRegistration,
+                            data = restaurantDTO,
                             Message = MessageHelper.Messages.UserRegisteredSuccessfully,
                             StatusCode = (int)SystemCode.StatusCode.Success
                         });
@@ -129,7 +129,7 @@ namespace Eatery.Service.Controllers
                     {
                         return Ok(new
                         {
-                            data = RestaurantRegistration,
+                            data = restaurantDTO,
                             Message = MessageHelper.Messages.UserRegistrationFailed,
                             StatusCode = (int)SystemCode.StatusCode.Failed
                         });
@@ -137,6 +137,7 @@ namespace Eatery.Service.Controllers
                 }
                 return BadRequest(ModelState);
             }
+            
             catch (Exception ex)
             {
                 return InternalServerError(ex);

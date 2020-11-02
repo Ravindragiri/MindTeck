@@ -12,10 +12,10 @@ namespace Eatery.DAL.Mappers
     {
         public OperationTimingMapper()
         {
-            ToTable("OperationTimings");
+            ToTable("RestaurantOperationTimings");
             // Primary Key
             this.HasKey(t => t.ID);
-            this.HasKey(t => t.RestaurantID);
+            this.Property(t => t.RestaurantID).HasColumnName("RestaurantID");
 
             this.Property(t => t.DayOfWeek);
             this.Property(t => t.TimeOpen);

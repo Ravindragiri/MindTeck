@@ -55,7 +55,7 @@ namespace Eatery.Business
             return Restaurants;
         }
 
-        public RestaurantRegistrationDTO Register(RestaurantRegistrationDTO RestaurantRegistrationDTO)
+        public RegisterOwnerWithRestaurantDTO RegisterOwnerWithRestaurant(RegisterOwnerWithRestaurantDTO RestaurantRegistrationDTO)
         {
             if (RestaurantRegistrationDTO != null)
             {
@@ -106,9 +106,9 @@ namespace Eatery.Business
             return RestaurantRegistrationDTO;
         }
 
-        public RestaurantRegistrationDTO RegisterRestaurant(RestaurantRegistrationDTO RestaurantRegistrationDTO)
+        public RestaurantDTO Register(RestaurantDTO restaurantDTO, int userID)
         {
-            if (RestaurantRegistrationDTO != null)
+            if (restaurantDTO != null)
             {
                 using (IEateryDbContext context = _unitOfWork.GetEateryDbContext())
                 {
@@ -116,24 +116,28 @@ namespace Eatery.Business
                     {
                         try
                         {
-                            User user = ObjectTypeConverter.Convert<UserDTO, User>(RestaurantRegistrationDTO.UserDTO);
-                            
-                            if (user.ID > 0)
+                            if (userID > 0)
                             {
-                                Restaurant Restaurant = ObjectTypeConverter.Convert<RestaurantDTO, Restaurant>(RestaurantRegistrationDTO.RestaurantDTO);
-                                Restaurant.UserID = user.ID;
-                                this._RestaurantRepository.Add(context, Restaurant);
+                                Restaurant restaurant = ObjectTypeConverter.Convert<RestaurantDTO, Restaurant>(restaurantDTO);
+                                restaurant.UserID = userID;
+                                restaurant.CreatedBy = userID;
+                                restaurant.CreatedDate = DateTime.Now;
+                                this._RestaurantRepository.Add(context, restaurant);
 
                                 _unitOfWork.Commit(context);
-                                if (Restaurant.ID > 0)
+                                if (restaurant.ID > 0)
                                 {
-                                    foreach (var operationTimingsDTO in RestaurantRegistrationDTO.RestaurantDTO.OperationTimings)
+                                    foreach (var operationTimingsDTO in restaurantDTO.OperationTimings)
                                     {
                                         OperationTiming operationTiming = ObjectTypeConverter.Convert<OperationTimingDTO, OperationTiming>(operationTimingsDTO);
+                                        operationTiming.RestaurantID = restaurant.ID;
+                                        operationTiming.CreatedBy = userID;
+                                        operationTiming.CreatedDate = DateTime.Now;
                                         this._OperationTimingRepository.Add(context, operationTiming);
                                         _unitOfWork.Commit(context);
                                     }
                                     dbContextTransaction.Commit();
+                                    restaurantDTO = ObjectTypeConverter.Convert<Restaurant, RestaurantDTO>(restaurant);
                                 }
                                 else
                                 {
@@ -145,14 +149,14 @@ namespace Eatery.Business
                                 dbContextTransaction.Rollback();
                             }
                         }
-                        catch (Exception)
+                        catch (Exception ex)
                         {
                             dbContextTransaction.Rollback();
                         }
                     }
                 }
             }
-            return RestaurantRegistrationDTO;
+            return restaurantDTO;
         }
 
         public RestaurantDTO GetRestaurantById(int RestaurantID)

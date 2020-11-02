@@ -40,6 +40,9 @@ namespace Eatery.Service
             container.RegisterType<IRestaurantRatingRepository, RestaurantRatingRepository>(new ContainerControlledLifetimeManager());
             container.RegisterType<IRestaurantRatingBL, RestaurantRatingBL>(new ContainerControlledLifetimeManager());
 
+            container.RegisterType<IOperationTimingRepository, OperationTimingRepository>(new ContainerControlledLifetimeManager());
+            container.RegisterType<IOperationTimingBL, OperationTimingBL>(new ContainerControlledLifetimeManager());
+
             container.RegisterType<IRawSQLDbContext, RawSQLDbContext>(new ContainerControlledLifetimeManager());
 
             return container;

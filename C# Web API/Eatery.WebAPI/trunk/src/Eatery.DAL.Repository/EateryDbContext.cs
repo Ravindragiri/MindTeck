@@ -27,6 +27,8 @@ namespace Eatery.DAL.Repository
             modelBuilder.Configurations.Add(new UserMapper());
             modelBuilder.Configurations.Add(new MenuItemMapper());
             modelBuilder.Configurations.Add(new MenuItemRatingMapper());
+            modelBuilder.Configurations.Add(new OperationTimingMapper());
+            modelBuilder.Configurations.Add(new RestaurantRatingMapper());
         }
 
         public new DbSet<TEntity> Set<TEntity>() where TEntity : class

@@ -4,3 +4,9 @@ C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.DataContra
 C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.DataContracts\obj\Debug\Eatery.DataContracts.csproj.CoreCompileInputs.cache
 C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.DataContracts\obj\Debug\Eatery.DataContracts.dll
 C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.DataContracts\obj\Debug\Eatery.DataContracts.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DataContracts\bin\Debug\Eatery.DataContracts.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DataContracts\bin\Debug\Eatery.DataContracts.pdb
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DataContracts\obj\Debug\Eatery.DataContracts.csprojAssemblyReference.cache
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DataContracts\obj\Debug\Eatery.DataContracts.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DataContracts\obj\Debug\Eatery.DataContracts.dll
+C:\Personal\Assessment\MindTeck\MindTeck\C# Web API\Eatery.WebAPI\trunk\src\Eatery.DataContracts\obj\Debug\Eatery.DataContracts.pdb

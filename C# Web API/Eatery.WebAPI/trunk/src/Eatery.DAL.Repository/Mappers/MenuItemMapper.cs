@@ -15,12 +15,14 @@ namespace Eatery.DAL.Mappers
             ToTable("MenuItems");
             // Primary Key
             this.HasKey(t => t.ID);
-            this.HasKey(t => t.RestaurantID);
+            
+            this.Property(t => t.RestaurantID);
 
             this.Property(t => t.Title);
             this.Property(t => t.Description);
             this.Property(t => t.Price);
-            this.Property(t => t.RatingID);
+            this.Property(t => t.Rating);
+            this.Property(t => t.IsPublished);
 
             this.Property(t => t.CreatedDate);
             this.Property(t => t.CreatedBy);

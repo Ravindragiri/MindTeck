@@ -10,8 +10,8 @@ namespace Eatery.Business.Interface
     public interface IRestaurantBL
     {
         List<RestaurantDTO> SearchRestaurants(SearchCriteriaDTO searchCriteria);
-        RestaurantRegistrationDTO Register(RestaurantRegistrationDTO RestaurantRegistrationDTO);
-        RestaurantRegistrationDTO RegisterRestaurant(RestaurantRegistrationDTO RestaurantRegistrationDTO);
+        RegisterOwnerWithRestaurantDTO RegisterOwnerWithRestaurant(RegisterOwnerWithRestaurantDTO RestaurantRegistrationDTO);
+        RestaurantDTO Register(RestaurantDTO restaurantDTO, int userID);
         RestaurantDTO GetRestaurantById(int RestaurantID);
         List<RestaurantSearchDTO> GetNearRestaurants(SearchCriteriaDTO criteria);
         List<RestaurantSearchDTO> GetRestaurantsByAnyCriteria(SearchCriteriaDTO criteria, string searchText);
