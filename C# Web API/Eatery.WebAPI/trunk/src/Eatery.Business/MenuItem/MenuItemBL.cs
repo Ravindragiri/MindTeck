@@ -57,27 +57,9 @@ namespace Eatery.Business
             return false;
         }
 
-        public MenuItemDTO Update(MenuItemDTO menuItemDTO, int? userID)
+        public bool AddRestaurantMenuItems(RestaurantMenuItemsDTO RestaurantMenuItemsDTO, int userID)
         {
-            using (IEateryDbContext context = _unitOfWork.GetEateryDbContext())
-            {
-                MenuItem menuItem = ObjectTypeConverter.Convert<MenuItemDTO, MenuItem>(menuItemDTO);
-                menuItem.UpdatedDate = DateTime.Now;
-                menuItem.UpdatedBy = userID;
-
-                menuItem = this._MenuItemRepository.Update(context, menuItem);
-                _unitOfWork.Commit(context);
-                if (menuItem != null)
-                {
-                    return ObjectTypeConverter.Convert<MenuItem, MenuItemDTO>(menuItem);
-                }
-            }
-            return default(MenuItemDTO);
-        }
-
-        public MenuItemPublishDTO PublishMenuItem(MenuItemPublishDTO menuItempublishDTO, int? userID)
-        {
-            if (menuItempublishDTO != null)
+            if (RestaurantMenuItemsDTO != null)
             {
                 using (IEateryDbContext context = _unitOfWork.GetEateryDbContext())
                 {
@@ -85,13 +67,14 @@ namespace Eatery.Business
                     {
                         try
                         {
-                            if (userID > 0 && menuItempublishDTO.RestaurantID > 0)
+                            if (userID > 0 && RestaurantMenuItemsDTO.RestaurantID > 0)
                             {
-                                foreach (var MenuItemDTO in menuItempublishDTO.MenuItemList)
+                                foreach (var MenuItemDTO in RestaurantMenuItemsDTO.MenuItemList)
                                 {
-                                    this.Update(MenuItemDTO, userID);
+                                    this.Add(MenuItemDTO, userID);
                                 }
                                 dbContextTransaction.Commit();
+                                return true;
                             }
                             else
                             {
@@ -105,7 +88,63 @@ namespace Eatery.Business
                     }
                 }
             }
-            return menuItempublishDTO;
+            return false;
+        }
+
+        public MenuItemDTO Update(MenuItemDTO menuItemDTO, int? userID)
+        {
+            using (IEateryDbContext context = _unitOfWork.GetEateryDbContext())
+            {
+                MenuItem menuItem = this._MenuItemRepository.GetById(context, menuItemDTO.ID);
+                if (menuItem != null)
+                {
+                    menuItem.IsPublished = menuItemDTO.IsPublished;
+                    menuItem.UpdatedDate = DateTime.Now;
+                    menuItem.UpdatedBy = userID;
+
+                    menuItem = this._MenuItemRepository.Update(context, menuItem);
+                    _unitOfWork.Commit(context);
+                    if (menuItem != null)
+                    {
+                        return ObjectTypeConverter.Convert<MenuItem, MenuItemDTO>(menuItem);
+                    }
+                }
+            }
+            return default(MenuItemDTO);
+        }
+
+        public bool Publish(RestaurantMenuItemsDTO restaurantMenuItemsDTO, int userID)
+        {
+            if (restaurantMenuItemsDTO != null)
+            {
+                using (IEateryDbContext context = _unitOfWork.GetEateryDbContext())
+                {
+                    using (var dbContextTransaction = ((IDbContext)context).GetDataBase().BeginTransaction())
+                    {
+                        try
+                        {
+                            if (userID > 0)
+                            {
+                                foreach (var MenuItemDTO in restaurantMenuItemsDTO.MenuItemList)
+                                {
+                                    this.Update(MenuItemDTO, userID);
+                                }
+                                dbContextTransaction.Commit();
+                                return true;
+                            }
+                            else
+                            {
+                                dbContextTransaction.Rollback();
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            dbContextTransaction.Rollback();
+                        }
+                    }
+                }
+            }
+            return false;
         }
 
         public MenuItemDTO GetMenuItemById(int MenuItemID)

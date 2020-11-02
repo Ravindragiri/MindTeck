@@ -88,6 +88,97 @@ namespace Eatery.Service.Controllers
             return BadRequest();
         }
 
+        [HttpPost]
+        [ResponseType(typeof(MenuItemResultDTO))]
+        public IHttpActionResult AddRestaurantMenuItems(RestaurantMenuItemsDTO RestaurantMenuItemsDTO)
+        {
+            bool rtnVal = false;
+
+            if (RestaurantMenuItemsDTO != null)
+            {
+                try
+                {
+                    if (ModelState.IsValid)
+                    {
+                        if (RestaurantMenuItemsDTO.RestaurantID == 0)
+                        {
+                            RestaurantDTO RestaurantDto = this._RestaurantBL.GetRestaurantByUserID(RestaurantMenuItemsDTO.UserID);
+                            if (RestaurantDto != null)
+                                RestaurantMenuItemsDTO.RestaurantID = RestaurantDto.ID.Value;
+                        }
+
+                        rtnVal = this._MenuItemBL.AddRestaurantMenuItems(RestaurantMenuItemsDTO, RestaurantMenuItemsDTO.UserID);
+                        if (rtnVal)
+                        {
+                            return Ok(new
+                            {
+                                status = SystemCode.StatusCode.Success.ToString(),
+                                message = MessageHelper.Messages.SaveSuccess,
+                                data = RestaurantMenuItemsDTO,
+                                statusCode = (int)SystemCode.StatusCode.Success
+                            });
+                        }
+                        return Ok(new
+                        {
+                            status = SystemCode.StatusCode.Error.ToString(),
+                            message = MessageHelper.Messages.SaveFailed,
+                            statusCode = (int)SystemCode.StatusCode.Failed
+                        });
+                    }
+                    else
+                    {
+                        return BadRequest(ModelState);
+                    }
+                }
+                catch (Exception)
+                {
+
+                    throw;
+                }
+            }
+            return BadRequest();
+        }
+
+        public IHttpActionResult Publish(RestaurantMenuItemsDTO restaurantMenuItemsDTO)
+        {
+            if (restaurantMenuItemsDTO != null)
+            {
+                try
+                {
+                    if (ModelState.IsValid)
+                    {
+                        bool rtnVal = this._MenuItemBL.Publish(restaurantMenuItemsDTO, restaurantMenuItemsDTO.UserID);
+                        if (rtnVal)
+                        {
+                            return Ok(new
+                            {
+                                status = SystemCode.StatusCode.Success.ToString(),
+                                message = MessageHelper.Messages.SaveSuccess,
+                                data = restaurantMenuItemsDTO,
+                                statusCode = (int)SystemCode.StatusCode.Success
+                            });
+                        }
+                        return Ok(new
+                        {
+                            status = SystemCode.StatusCode.Error.ToString(),
+                            message = MessageHelper.Messages.SaveFailed,
+                            statusCode = (int)SystemCode.StatusCode.Failed
+                        });
+                    }
+                    else
+                    {
+                        return BadRequest(ModelState);
+                    }
+                }
+                catch (Exception)
+                {
+
+                    throw;
+                }
+            }
+            return BadRequest();
+        }
+
         [HttpGet]
         [ResponseType(typeof(List<MenuItemSearchDTO>))]
         public IHttpActionResult GetNearMenuItems([FromUri]SearchCriteriaDTO searchCriteriaDTO)
