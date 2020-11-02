@@ -1,0 +1,100 @@
+{
+	"info": {
+		"_postman_id": "7489e0ba-8111-4684-a680-9608f849cda7",
+		"name": "Eatery C# Web API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "restaurant register",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"UserID\": 12, \r\n\t\"RestaurantDTO\":    \r\n    {\r\n        \"Title\": \"Junglee Restaurant\",\r\n        \"Description\": \"\",\r\n        \r\n        \"Address\": \"\",\r\n        \"City\": \"\",\r\n        \"Province\": \"\",\r\n        \"PinCode\": \"\",\r\n        \"CountryCode\": \"\",\r\n        \"Country\": \"\",\r\n        \r\n        \"Phone\": \"+91 875 8670 993\",\r\n        \"Email\": \"rg.goswami@gmail.com\",\r\n        \r\n        \"Latitude\": \"1.33609003\",\r\n        \"Longitude\": \"103.62880601\",\r\n        \r\n        \"OperationTimings\": \r\n        [\r\n            {\r\n                \"DayOfWeek\": \"1\",\r\n                \"TimeOpen\": \"10am\",\r\n                \"Timeclosed\": \"10pm\"\r\n            },\r\n            {\r\n                \"DayOfWeek\": \"2\",\r\n                \"TimeOpen\": \"10am\",\r\n                \"Timeclosed\": \"10pm\"\r\n            },\r\n            {\r\n                \"DayOfWeek\": \"3\",\r\n                \"TimeOpen\": \"10am\",\r\n                \"Timeclosed\": \"10pm\"\r\n            },\r\n            {\r\n                \"DayOfWeek\": \"4\",\r\n                \"TimeOpen\": \"10am\",\r\n                \"Timeclosed\": \"10pm\"\r\n            },\r\n            {\r\n                \"DayOfWeek\": \"5\",\r\n                \"TimeOpen\": \"10am\",\r\n                \"Timeclosed\": \"10pm\"\r\n            }\r\n        ]\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:14483/api/restaurant/register",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "14483",
+					"path": [
+						"api",
+						"restaurant",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "publish menu",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"RestaurantID\": 8,\r\n  \"UserID\": 12,\r\n  \"MenuItemList\": [\r\n      {\r\n            \"Title\": \"Sarson ka Saag\",\r\n            \"Description\": null,\r\n            \"Price\": null,\r\n            \"Rating\": null,\r\n            \"IsPublished\": true\r\n        }\r\n    ]\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:14483/api/menuItem/publish",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "14483",
+					"path": [
+						"api",
+						"menuItem",
+						"publish"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add Restaurant Menu Items",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"RestaurantID\": 8,\r\n  \"UserID\": 12,\r\n  \"MenuItemList\": [\r\n      {\r\n            \"Title\": \"Sarson ka Saag\",\r\n            \"Description\": null,\r\n            \"Price\": null,\r\n            \"Rating\": null\r\n        }\r\n    ]\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:14483/api/menuItem/addRestaurantMenuItems",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "14483",
+					"path": [
+						"api",
+						"menuItem",
+						"addRestaurantMenuItems"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
