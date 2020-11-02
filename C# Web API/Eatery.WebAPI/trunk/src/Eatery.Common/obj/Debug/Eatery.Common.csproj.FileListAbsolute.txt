@@ -1,0 +1,15 @@
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\bin\Debug\Eatery.Common.dll
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\bin\Debug\Eatery.Common.pdb
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\bin\Debug\AutoMapper.dll
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\bin\Debug\AutoMapper.xml
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\obj\Debug\Eatery.Common.csprojAssemblyReference.cache
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\obj\Debug\Eatery.Common.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\obj\Debug\Eatery.Common.csproj.CopyComplete
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\obj\Debug\Eatery.Common.dll
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Common\obj\Debug\Eatery.Common.pdb

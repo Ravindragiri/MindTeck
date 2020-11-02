@@ -1,0 +1,23 @@
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.DataContracts\bin\Debug\KaamKaaj.DataContracts.dll
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.DataContracts\bin\Debug\KaamKaaj.DataContracts.pdb
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.dll
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.pdb
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.DataContracts\bin\Debug\KaamKaaj.DataContracts.dll
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.DataContracts\bin\Debug\KaamKaaj.DataContracts.pdb
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.dll
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\bin\Debug\KaamKaaj.DataContracts.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\bin\Debug\KaamKaaj.DataContracts.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.csprojResolveAssemblyReference.cache
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\bin\Debug\KaamKaaj.DataContracts.dll
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\bin\Debug\KaamKaaj.DataContracts.pdb
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.dll
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.pdb
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\bin\Debug\KaamKaaj.DataContracts.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\bin\Debug\KaamKaaj.DataContracts.pdb
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\obj\Debug\KaamKaaj.DataContracts.pdb

@@ -1,0 +1,10 @@
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Release\KaamKaaj.DTO.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Release\KaamKaaj.DTO.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Release\KaamKaaj.DTO.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Release\KaamKaaj.DTO.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Release\KaamKaaj.DTO.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Release\Newtonsoft.Json.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Release\Newtonsoft.Json.xml
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Release\MultipartDataMediaFormatter.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Release\System.Net.Http.Formatting.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Release\System.Net.Http.Formatting.xml

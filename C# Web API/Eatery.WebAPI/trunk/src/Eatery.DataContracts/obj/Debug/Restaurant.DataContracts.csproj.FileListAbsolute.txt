@@ -1,0 +1,12 @@
+C:\Personal\Assessment\MindTeck\KaamKaaj\Restaurant.WebAPI\trunk\src\Restaurant.DataContracts\bin\Debug\Restaurant.DataContracts.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\Restaurant.WebAPI\trunk\src\Restaurant.DataContracts\bin\Debug\Restaurant.DataContracts.pdb
+C:\Personal\Assessment\MindTeck\KaamKaaj\Restaurant.WebAPI\trunk\src\Restaurant.DataContracts\obj\Debug\Restaurant.DataContracts.csprojAssemblyReference.cache
+C:\Personal\Assessment\MindTeck\KaamKaaj\Restaurant.WebAPI\trunk\src\Restaurant.DataContracts\obj\Debug\Restaurant.DataContracts.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\KaamKaaj\Restaurant.WebAPI\trunk\src\Restaurant.DataContracts\obj\Debug\Restaurant.DataContracts.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\Restaurant.WebAPI\trunk\src\Restaurant.DataContracts\obj\Debug\Restaurant.DataContracts.pdb
+C:\Personal\Assessment\MindTeck\Restaurant\Restaurant.WebAPI\trunk\src\Restaurant.DataContracts\bin\Debug\Restaurant.DataContracts.dll
+C:\Personal\Assessment\MindTeck\Restaurant\Restaurant.WebAPI\trunk\src\Restaurant.DataContracts\bin\Debug\Restaurant.DataContracts.pdb
+C:\Personal\Assessment\MindTeck\Restaurant\Restaurant.WebAPI\trunk\src\Restaurant.DataContracts\obj\Debug\Restaurant.DataContracts.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\Restaurant\Restaurant.WebAPI\trunk\src\Restaurant.DataContracts\obj\Debug\Restaurant.DataContracts.dll
+C:\Personal\Assessment\MindTeck\Restaurant\Restaurant.WebAPI\trunk\src\Restaurant.DataContracts\obj\Debug\Restaurant.DataContracts.pdb
+C:\Personal\Assessment\MindTeck\Restaurant\Restaurant.WebAPI\trunk\src\Restaurant.DataContracts\obj\Debug\Restaurant.DataContracts.csprojAssemblyReference.cache

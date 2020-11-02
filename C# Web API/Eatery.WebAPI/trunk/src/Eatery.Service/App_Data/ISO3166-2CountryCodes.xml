@@ -1,0 +1,3288 @@
+﻿<?xml version="1.0"?>
+<ROWSET>
+  <ROW>
+    <Common_Name>Abkhazia</Common_Name>
+    <Formal_Name>Republic of Abkhazia</Formal_Name>
+    <Type>Proto Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Sokhumi</Capital>
+    <ISO_4217_Currency_Code>RUB</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Ruble</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>995</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GEO</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>268</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ge</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Afghanistan</Common_Name>
+    <Formal_Name>Islamic State of Afghanistan</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Kabul</Capital>
+    <ISO_4217_Currency_Code>AFN</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Afghani</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>93</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AF</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>AFG</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>4</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.af</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Aland</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Proto Dependency</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty>Finland</Sovereignty>
+    <Capital>Mariehamn</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>340</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AX</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ALA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>248</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ax</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Albania</Common_Name>
+    <Formal_Name>Republic of Albania</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Tirana</Capital>
+    <ISO_4217_Currency_Code>ALL</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Lek</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>355</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AL</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ALB</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>8</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.al</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Algeria</Common_Name>
+    <Formal_Name>People&apos;s Democratic Republic of Algeria</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Algiers</Capital>
+    <ISO_4217_Currency_Code>DZD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dinar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>213</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>DZ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>DZA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>12</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.dz</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Andorra</Common_Name>
+    <Formal_Name>Principality of Andorra</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Andorra la Vella</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>376</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AD</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>AND</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>20</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ad</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Angola</Common_Name>
+    <Formal_Name>Republic of Angola</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Luanda</Capital>
+    <ISO_4217_Currency_Code>AOA</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Kwanza</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>244</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AO</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>AGO</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>24</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ao</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Argentina</Common_Name>
+    <Formal_Name>Argentine Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Buenos Aires</Capital>
+    <ISO_4217_Currency_Code>ARS</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Peso</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>54</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ARG</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>32</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ar</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Armenia</Common_Name>
+    <Formal_Name>Republic of Armenia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Yerevan</Capital>
+    <ISO_4217_Currency_Code>AMD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dram</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>374</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AM</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ARM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>51</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.am</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Aruba</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Proto Dependency</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty>Netherlands</Sovereignty>
+    <Capital>Oranjestad</Capital>
+    <ISO_4217_Currency_Code>AWG</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Guilder</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>297</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AW</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ABW</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>533</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.aw</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Australia</Common_Name>
+    <Formal_Name>Commonwealth of Australia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Canberra</Capital>
+    <ISO_4217_Currency_Code>AUD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>61</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AU</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>AUS</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>36</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.au</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Austria</Common_Name>
+    <Formal_Name>Republic of Austria</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Vienna</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>43</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AT</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>AUT</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>40</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.at</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Azerbaijan</Common_Name>
+    <Formal_Name>Republic of Azerbaijan</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Baku</Capital>
+    <ISO_4217_Currency_Code>AZN</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Manat</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>994</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AZ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>AZE</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>31</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.az</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Bahrain</Common_Name>
+    <Formal_Name>Kingdom of Bahrain</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Manama</Capital>
+    <ISO_4217_Currency_Code>BHD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dinar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>973</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BH</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BHR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>48</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.bh</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Bangladesh</Common_Name>
+    <Formal_Name>People&apos;s Republic of Bangladesh</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Dhaka</Capital>
+    <ISO_4217_Currency_Code>BDT</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Taka</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>880</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BD</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BGD</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>50</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.bd</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Belarus</Common_Name>
+    <Formal_Name>Republic of Belarus</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Minsk</Capital>
+    <ISO_4217_Currency_Code>BYR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Ruble</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>375</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BY</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BLR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>112</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.by</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Belgium</Common_Name>
+    <Formal_Name>Kingdom of Belgium</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Brussels</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>32</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BEL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>56</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.be</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Belize</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Belmopan</Capital>
+    <ISO_4217_Currency_Code>BZD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>501</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BZ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BLZ</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>84</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.bz</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Benin</Common_Name>
+    <Formal_Name>Republic of Benin</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Porto-Novo</Capital>
+    <ISO_4217_Currency_Code>XOF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>229</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BJ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BEN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>204</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.bj</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Bhutan</Common_Name>
+    <Formal_Name>Kingdom of Bhutan</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Thimphu</Capital>
+    <ISO_4217_Currency_Code>BTN</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Ngultrum</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>975</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BT</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BTN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>64</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.bt</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Bolivia</Common_Name>
+    <Formal_Name>Republic of Bolivia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>La Paz (administrative/legislative) and Sucre (judical)</Capital>
+    <ISO_4217_Currency_Code>BOB</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Boliviano</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>591</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BO</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BOL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>68</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.bo</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Bosnia and Herzegovina</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Sarajevo</Capital>
+    <ISO_4217_Currency_Code>BAM</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Marka</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>387</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BA</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BIH</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>70</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ba</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Botswana</Common_Name>
+    <Formal_Name>Republic of Botswana</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Gaborone</Capital>
+    <ISO_4217_Currency_Code>BWP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pula</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>267</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BW</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BWA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>72</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.bw</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Brazil</Common_Name>
+    <Formal_Name>Federative Republic of Brazil</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Brasilia</Capital>
+    <ISO_4217_Currency_Code>BRL</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Real</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>55</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BRA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>76</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.br</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>British Indian Ocean Territory</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Overseas Territory</Sub_Type>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital></Capital>
+    <ISO_4217_Currency_Code></ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name></ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>246</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>IO</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>IOT</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>86</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.io</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Brunei</Common_Name>
+    <Formal_Name>Negara Brunei Darussalam</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Bandar Seri Begawan</Capital>
+    <ISO_4217_Currency_Code>BND</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>673</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BN</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BRN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>96</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.bn</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Bulgaria</Common_Name>
+    <Formal_Name>Republic of Bulgaria</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Sofia</Capital>
+    <ISO_4217_Currency_Code>BGN</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Lev</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>359</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BG</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BGR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>100</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.bg</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Burkina Faso</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Ouagadougou</Capital>
+    <ISO_4217_Currency_Code>XOF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>226</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BF</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BFA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>854</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.bf</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Burundi</Common_Name>
+    <Formal_Name>Republic of Burundi</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Bujumbura</Capital>
+    <ISO_4217_Currency_Code>BIF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>257</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>BI</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>BDI</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>108</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.bi</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Cambodia</Common_Name>
+    <Formal_Name>Kingdom of Cambodia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Phnom Penh</Capital>
+    <ISO_4217_Currency_Code>KHR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Riels</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>855</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>KH</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>KHM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>116</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.kh</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Cameroon</Common_Name>
+    <Formal_Name>Republic of Cameroon</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Yaounde</Capital>
+    <ISO_4217_Currency_Code>XAF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>237</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CM</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CMR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>120</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cm</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Canada</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Ottawa</Capital>
+    <ISO_4217_Currency_Code>CAD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>1</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CA</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CAN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>124</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ca</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Cape Verde</Common_Name>
+    <Formal_Name>Republic of Cape Verde</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Praia</Capital>
+    <ISO_4217_Currency_Code>CVE</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Escudo</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>238</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CV</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CPV</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>132</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cv</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Central African Republic</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Bangui</Capital>
+    <ISO_4217_Currency_Code>XAF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>236</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CF</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CAF</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>140</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cf</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Chad</Common_Name>
+    <Formal_Name>Republic of Chad</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>N&apos;Djamena</Capital>
+    <ISO_4217_Currency_Code>XAF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>235</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TD</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>TCD</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>148</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.td</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Chile</Common_Name>
+    <Formal_Name>Republic of Chile</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Santiago (administrative/judical) and Valparaiso (legislative)</Capital>
+    <ISO_4217_Currency_Code>CLP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Peso</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>56</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CL</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CHL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>152</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cl</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>China, People&apos;s Republic of</Common_Name>
+    <Formal_Name>People&apos;s Republic of China</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Beijing</Capital>
+    <ISO_4217_Currency_Code>CNY</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Yuan Renminbi</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>86</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CN</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CHN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>156</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cn</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>China, Republic of (Taiwan)</Common_Name>
+    <Formal_Name>Republic of China</Formal_Name>
+    <Type>Proto Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Taipei</Capital>
+    <ISO_4217_Currency_Code>TWD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>886</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TW</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>TWN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>158</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.tw</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Christmas Island</Common_Name>
+    <Formal_Name>Territory of Christmas Island</Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>External Territory</Sub_Type>
+    <Sovereignty>Australia</Sovereignty>
+    <Capital>The Settlement (Flying Fish Cove)</Capital>
+    <ISO_4217_Currency_Code>AUD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>61</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CX</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CXR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>162</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cx</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Cocos (Keeling) Islands</Common_Name>
+    <Formal_Name>Territory of Cocos (Keeling) Islands</Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>External Territory</Sub_Type>
+    <Sovereignty>Australia</Sovereignty>
+    <Capital>West Island</Capital>
+    <ISO_4217_Currency_Code>AUD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>61</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CC</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CCK</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>166</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cc</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Colombia</Common_Name>
+    <Formal_Name>Republic of Colombia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Bogota</Capital>
+    <ISO_4217_Currency_Code>COP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Peso</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>57</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CO</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>COL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>170</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.co</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Comoros</Common_Name>
+    <Formal_Name>Union of Comoros</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Moroni</Capital>
+    <ISO_4217_Currency_Code>KMF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>269</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>KM</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>COM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>174</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.km</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Congo, (Congo ?? Brazzaville)</Common_Name>
+    <Formal_Name>Republic of the Congo</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Brazzaville</Capital>
+    <ISO_4217_Currency_Code>XAF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>242</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CG</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>COG</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>178</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cg</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Congo, (Congo ?? Kinshasa)</Common_Name>
+    <Formal_Name>Democratic Republic of the Congo</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Kinshasa</Capital>
+    <ISO_4217_Currency_Code>CDF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>243</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CD</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>COD</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>180</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cd</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Cook Islands</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Self-Governing in Free Association</Sub_Type>
+    <Sovereignty>New Zealand</Sovereignty>
+    <Capital>Avarua</Capital>
+    <ISO_4217_Currency_Code>NZD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>682</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CK</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>COK</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>184</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ck</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Costa Rica</Common_Name>
+    <Formal_Name>Republic of Costa Rica</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>San Jose</Capital>
+    <ISO_4217_Currency_Code>CRC</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Colon</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>506</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CRI</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>188</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cr</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Cote d&apos;Ivoire (Ivory Coast)</Common_Name>
+    <Formal_Name>Republic of Cote d&apos;Ivoire</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Yamoussoukro</Capital>
+    <ISO_4217_Currency_Code>XOF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>225</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CI</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CIV</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>384</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ci</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Croatia</Common_Name>
+    <Formal_Name>Republic of Croatia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Zagreb</Capital>
+    <ISO_4217_Currency_Code>HRK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Kuna</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>385</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>HR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>HRV</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>191</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.hr</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Cuba</Common_Name>
+    <Formal_Name>Republic of Cuba</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Havana</Capital>
+    <ISO_4217_Currency_Code>CUP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Peso</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>53</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CU</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CUB</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>192</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cu</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Cyprus</Common_Name>
+    <Formal_Name>Republic of Cyprus</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Nicosia</Capital>
+    <ISO_4217_Currency_Code>CYP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pound</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>357</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CY</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CYP</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>196</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cy</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Czech Republic</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Prague</Capital>
+    <ISO_4217_Currency_Code>CZK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Koruna</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>420</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CZ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CZE</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>203</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.cz</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Denmark</Common_Name>
+    <Formal_Name>Kingdom of Denmark</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Copenhagen</Capital>
+    <ISO_4217_Currency_Code>DKK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Krone</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>45</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>DK</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>DNK</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>208</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.dk</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Djibouti</Common_Name>
+    <Formal_Name>Republic of Djibouti</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Djibouti</Capital>
+    <ISO_4217_Currency_Code>DJF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>253</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>DJ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>DJI</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>262</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.dj</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Ecuador</Common_Name>
+    <Formal_Name>Republic of Ecuador</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Quito</Capital>
+    <ISO_4217_Currency_Code>USD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>593</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>EC</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ECU</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>218</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ec</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Egypt</Common_Name>
+    <Formal_Name>Arab Republic of Egypt</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Cairo</Capital>
+    <ISO_4217_Currency_Code>EGP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pound</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>20</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>EG</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>EGY</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>818</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.eg</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>El Salvador</Common_Name>
+    <Formal_Name>Republic of El Salvador</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>San Salvador</Capital>
+    <ISO_4217_Currency_Code>USD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>503</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SV</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SLV</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>222</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sv</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Equatorial Guinea</Common_Name>
+    <Formal_Name>Republic of Equatorial Guinea</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Malabo</Capital>
+    <ISO_4217_Currency_Code>XAF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>240</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GQ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GNQ</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>226</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gq</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Eritrea</Common_Name>
+    <Formal_Name>State of Eritrea</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Asmara</Capital>
+    <ISO_4217_Currency_Code>ERN</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Nakfa</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>291</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>ER</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ERI</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>232</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.er</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Estonia</Common_Name>
+    <Formal_Name>Republic of Estonia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Tallinn</Capital>
+    <ISO_4217_Currency_Code>EEK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Kroon</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>372</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>EE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>EST</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>233</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ee</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Ethiopia</Common_Name>
+    <Formal_Name>Federal Democratic Republic of Ethiopia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Addis Ababa</Capital>
+    <ISO_4217_Currency_Code>ETB</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Birr</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>251</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>ET</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ETH</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>231</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.et</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Falkland Islands (Islas Malvinas)</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Overseas Territory</Sub_Type>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Stanley</Capital>
+    <ISO_4217_Currency_Code>FKP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pound</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>500</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>FK</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>FLK</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>238</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.fk</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Faroe Islands</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Proto Dependency</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty>Denmark</Sovereignty>
+    <Capital>Torshavn</Capital>
+    <ISO_4217_Currency_Code>DKK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Krone</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>298</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>FO</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>FRO</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>234</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.fo</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Fiji</Common_Name>
+    <Formal_Name>Republic of the Fiji Islands</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Suva</Capital>
+    <ISO_4217_Currency_Code>FJD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>679</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>FJ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>FJI</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>242</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.fj</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Finland</Common_Name>
+    <Formal_Name>Republic of Finland</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Helsinki</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>358</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>FI</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>FIN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>246</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.fi</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>France</Common_Name>
+    <Formal_Name>French Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Paris</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>33</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>FR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>FRA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>250</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.fr</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>French Guiana</Common_Name>
+    <Formal_Name>Overseas Region of Guiana</Formal_Name>
+    <Type>Proto Dependency</Type>
+    <Sub_Type>Overseas Region</Sub_Type>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Cayenne</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>594</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GF</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GUF</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>254</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gf</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>French Polynesia</Common_Name>
+    <Formal_Name>Overseas Country of French Polynesia</Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Overseas Collectivity</Sub_Type>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Papeete</Capital>
+    <ISO_4217_Currency_Code>XPF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>689</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>PF</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>PYF</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>258</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.pf</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Gabon</Common_Name>
+    <Formal_Name>Gabonese Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Libreville</Capital>
+    <ISO_4217_Currency_Code>XAF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>241</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GA</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GAB</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>266</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ga</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Gambia, The</Common_Name>
+    <Formal_Name>Republic of The Gambia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Banjul</Capital>
+    <ISO_4217_Currency_Code>GMD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dalasi</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>220</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GM</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GMB</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>270</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gm</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Georgia</Common_Name>
+    <Formal_Name>Republic of Georgia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Tbilisi</Capital>
+    <ISO_4217_Currency_Code>GEL</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Lari</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>995</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GEO</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>268</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ge</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Germany</Common_Name>
+    <Formal_Name>Federal Republic of Germany</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Berlin</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>49</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>DE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>DEU</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>276</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.de</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Ghana</Common_Name>
+    <Formal_Name>Republic of Ghana</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Accra</Capital>
+    <ISO_4217_Currency_Code>GHC</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Cedi</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>233</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GH</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GHA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>288</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gh</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Gibraltar</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Overseas Territory</Sub_Type>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Gibraltar</Capital>
+    <ISO_4217_Currency_Code>GIP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pound</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>350</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GI</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GIB</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>292</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gi</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Greece</Common_Name>
+    <Formal_Name>Hellenic Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Athens</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>30</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GRC</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>300</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gr</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Greenland</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Proto Dependency</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty>Denmark</Sovereignty>
+    <Capital>Nuuk (Godthab)</Capital>
+    <ISO_4217_Currency_Code>DKK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Krone</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>299</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GL</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GRL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>304</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gl</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Guadeloupe</Common_Name>
+    <Formal_Name>Overseas Region of Guadeloupe</Formal_Name>
+    <Type>Proto Dependency</Type>
+    <Sub_Type>Overseas Region</Sub_Type>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Basse-Terre</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>590</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GP</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GLP</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>312</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gp</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Guatemala</Common_Name>
+    <Formal_Name>Republic of Guatemala</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Guatemala</Capital>
+    <ISO_4217_Currency_Code>GTQ</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Quetzal</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>502</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GT</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GTM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>320</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gt</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Guernsey</Common_Name>
+    <Formal_Name>Bailiwick of Guernsey</Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Crown Dependency</Sub_Type>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Saint Peter Port</Capital>
+    <ISO_4217_Currency_Code>GGP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pound</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>44</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GG</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GGY</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>831</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gg</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Guinea</Common_Name>
+    <Formal_Name>Republic of Guinea</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Conakry</Capital>
+    <ISO_4217_Currency_Code>GNF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>224</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GN</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GIN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>324</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gn</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Guinea-Bissau</Common_Name>
+    <Formal_Name>Republic of Guinea-Bissau</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Bissau</Capital>
+    <ISO_4217_Currency_Code>XOF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>245</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GW</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GNB</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>624</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gw</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Guyana</Common_Name>
+    <Formal_Name>Co-operative Republic of Guyana</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Georgetown</Capital>
+    <ISO_4217_Currency_Code>GYD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>592</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GY</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GUY</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>328</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gy</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Haiti</Common_Name>
+    <Formal_Name>Republic of Haiti</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Port-au-Prince</Capital>
+    <ISO_4217_Currency_Code>HTG</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Gourde</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>509</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>HT</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>HTI</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>332</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ht</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Honduras</Common_Name>
+    <Formal_Name>Republic of Honduras</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Tegucigalpa</Capital>
+    <ISO_4217_Currency_Code>HNL</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Lempira</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>504</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>HN</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>HND</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>340</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.hn</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Hong Kong</Common_Name>
+    <Formal_Name>Hong Kong Special Administrative Region</Formal_Name>
+    <Type>Proto Dependency</Type>
+    <Sub_Type>Special Administrative Region</Sub_Type>
+    <Sovereignty>China</Sovereignty>
+    <Capital></Capital>
+    <ISO_4217_Currency_Code>HKD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>852</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>HK</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>HKG</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>344</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.hk</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Hungary</Common_Name>
+    <Formal_Name>Republic of Hungary</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Budapest</Capital>
+    <ISO_4217_Currency_Code>HUF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Forint</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>36</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>HU</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>HUN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>348</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.hu</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Iceland</Common_Name>
+    <Formal_Name>Republic of Iceland</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Reykjavik</Capital>
+    <ISO_4217_Currency_Code>ISK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Krona</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>354</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>IS</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ISL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>352</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.is</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>India</Common_Name>
+    <Formal_Name>Republic of India</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>New Delhi</Capital>
+    <ISO_4217_Currency_Code>INR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rupee</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>91</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>IN</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>IND</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>356</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.in</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Indonesia</Common_Name>
+    <Formal_Name>Republic of Indonesia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Jakarta</Capital>
+    <ISO_4217_Currency_Code>IDR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rupiah</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>62</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>ID</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>IDN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>360</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.id</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Iran</Common_Name>
+    <Formal_Name>Islamic Republic of Iran</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Tehran</Capital>
+    <ISO_4217_Currency_Code>IRR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rial</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>98</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>IR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>IRN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>364</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ir</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Iraq</Common_Name>
+    <Formal_Name>Republic of Iraq</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Baghdad</Capital>
+    <ISO_4217_Currency_Code>IQD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dinar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>964</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>IQ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>IRQ</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>368</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.iq</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Ireland</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Dublin</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>353</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>IE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>IRL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>372</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ie</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Isle of Man</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Crown Dependency</Sub_Type>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Douglas</Capital>
+    <ISO_4217_Currency_Code>IMP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pound</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>44</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>IM</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>IMN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>833</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.im</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Israel</Common_Name>
+    <Formal_Name>State of Israel</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Jerusalem</Capital>
+    <ISO_4217_Currency_Code>ILS</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Shekel</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>972</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>IL</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ISR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>376</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.il</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Italy</Common_Name>
+    <Formal_Name>Italian Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Rome</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>39</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>IT</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ITA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>380</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.it</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Japan</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Tokyo</Capital>
+    <ISO_4217_Currency_Code>JPY</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Yen</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>81</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>JP</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>JPN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>392</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.jp</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Jersey</Common_Name>
+    <Formal_Name>Bailiwick of Jersey</Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Crown Dependency</Sub_Type>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Saint Helier</Capital>
+    <ISO_4217_Currency_Code>JEP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pound</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>44</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>JE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>JEY</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>832</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.je</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Jordan</Common_Name>
+    <Formal_Name>Hashemite Kingdom of Jordan</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Amman</Capital>
+    <ISO_4217_Currency_Code>JOD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dinar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>962</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>JO</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>JOR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>400</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.jo</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Kazakhstan</Common_Name>
+    <Formal_Name>Republic of Kazakhstan</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Astana</Capital>
+    <ISO_4217_Currency_Code>KZT</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Tenge</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>7</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>KZ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>KAZ</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>398</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.kz</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Kenya</Common_Name>
+    <Formal_Name>Republic of Kenya</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Nairobi</Capital>
+    <ISO_4217_Currency_Code>KES</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Shilling</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>254</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>KE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>KEN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>404</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ke</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Kiribati</Common_Name>
+    <Formal_Name>Republic of Kiribati</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Tarawa</Capital>
+    <ISO_4217_Currency_Code>AUD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>686</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>KI</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>KIR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>296</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ki</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Korea, North</Common_Name>
+    <Formal_Name>Democratic People&apos;s Republic of Korea</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Pyongyang</Capital>
+    <ISO_4217_Currency_Code>KPW</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Won</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>850</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>KP</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>PRK</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>408</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.kp</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Korea, South</Common_Name>
+    <Formal_Name>Republic of Korea</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Seoul</Capital>
+    <ISO_4217_Currency_Code>KRW</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Won</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>82</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>KR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>KOR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>410</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.kr</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Kuwait</Common_Name>
+    <Formal_Name>State of Kuwait</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Kuwait</Capital>
+    <ISO_4217_Currency_Code>KWD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dinar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>965</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>KW</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>KWT</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>414</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.kw</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Kyrgyzstan</Common_Name>
+    <Formal_Name>Kyrgyz Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Bishkek</Capital>
+    <ISO_4217_Currency_Code>KGS</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Som</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>996</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>KG</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>KGZ</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>417</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.kg</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Laos</Common_Name>
+    <Formal_Name>Lao People&apos;s Democratic Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Vientiane</Capital>
+    <ISO_4217_Currency_Code>LAK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Kip</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>856</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>LA</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>LAO</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>418</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.la</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Latvia</Common_Name>
+    <Formal_Name>Republic of Latvia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Riga</Capital>
+    <ISO_4217_Currency_Code>LVL</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Lat</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>371</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>LV</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>LVA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>428</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.lv</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Lebanon</Common_Name>
+    <Formal_Name>Lebanese Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Beirut</Capital>
+    <ISO_4217_Currency_Code>LBP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pound</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>961</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>LB</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>LBN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>422</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.lb</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Lesotho</Common_Name>
+    <Formal_Name>Kingdom of Lesotho</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Maseru</Capital>
+    <ISO_4217_Currency_Code>LSL</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Loti</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>266</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>LS</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>LSO</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>426</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ls</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Liberia</Common_Name>
+    <Formal_Name>Republic of Liberia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Monrovia</Capital>
+    <ISO_4217_Currency_Code>LRD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>231</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>LR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>LBR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>430</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.lr</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Libya</Common_Name>
+    <Formal_Name>Great Socialist People&apos;s Libyan Arab Jamahiriya</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Tripoli</Capital>
+    <ISO_4217_Currency_Code>LYD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dinar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>218</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>LY</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>LBY</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>434</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ly</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Liechtenstein</Common_Name>
+    <Formal_Name>Principality of Liechtenstein</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Vaduz</Capital>
+    <ISO_4217_Currency_Code>CHF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>423</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>LI</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>LIE</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>438</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.li</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Lithuania</Common_Name>
+    <Formal_Name>Republic of Lithuania</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Vilnius</Capital>
+    <ISO_4217_Currency_Code>LTL</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Litas</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>370</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>LT</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>LTU</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>440</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.lt</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Luxembourg</Common_Name>
+    <Formal_Name>Grand Duchy of Luxembourg</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Luxembourg</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>352</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>LU</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>LUX</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>442</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.lu</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Macau</Common_Name>
+    <Formal_Name>Macau Special Administrative Region</Formal_Name>
+    <Type>Proto Dependency</Type>
+    <Sub_Type>Special Administrative Region</Sub_Type>
+    <Sovereignty>China</Sovereignty>
+    <Capital>Macau</Capital>
+    <ISO_4217_Currency_Code>MOP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pataca</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>853</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MO</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MAC</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>446</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mo</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Macedonia</Common_Name>
+    <Formal_Name>Republic of Macedonia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Skopje</Capital>
+    <ISO_4217_Currency_Code>MKD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Denar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>389</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MK</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MKD</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>807</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mk</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Madagascar</Common_Name>
+    <Formal_Name>Republic of Madagascar</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Antananarivo</Capital>
+    <ISO_4217_Currency_Code>MGA</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Ariary</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>261</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MG</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MDG</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>450</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mg</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Malawi</Common_Name>
+    <Formal_Name>Republic of Malawi</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Lilongwe</Capital>
+    <ISO_4217_Currency_Code>MWK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Kwacha</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>265</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MW</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MWI</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>454</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mw</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Malaysia</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Kuala Lumpur (legislative/judical) and Putrajaya (administrative)</Capital>
+    <ISO_4217_Currency_Code>MYR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Ringgit</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>60</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MY</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MYS</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>458</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.my</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Maldives</Common_Name>
+    <Formal_Name>Republic of Maldives</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Male</Capital>
+    <ISO_4217_Currency_Code>MVR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rufiyaa</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>960</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MV</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MDV</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>462</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mv</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Mali</Common_Name>
+    <Formal_Name>Republic of Mali</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Bamako</Capital>
+    <ISO_4217_Currency_Code>XOF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>223</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>ML</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MLI</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>466</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ml</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Malta</Common_Name>
+    <Formal_Name>Republic of Malta</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Valletta</Capital>
+    <ISO_4217_Currency_Code>MTL</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Lira</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>356</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MT</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MLT</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>470</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mt</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Marshall Islands</Common_Name>
+    <Formal_Name>Republic of the Marshall Islands</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Majuro</Capital>
+    <ISO_4217_Currency_Code>USD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>692</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MH</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MHL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>584</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mh</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Martinique</Common_Name>
+    <Formal_Name>Overseas Region of Martinique</Formal_Name>
+    <Type>Proto Dependency</Type>
+    <Sub_Type>Overseas Region</Sub_Type>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Fort-de-France</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>596</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MQ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MTQ</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>474</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mq</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Mauritania</Common_Name>
+    <Formal_Name>Islamic Republic of Mauritania</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Nouakchott</Capital>
+    <ISO_4217_Currency_Code>MRO</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Ouguiya</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>222</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MRT</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>478</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mr</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Mauritius</Common_Name>
+    <Formal_Name>Republic of Mauritius</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Port Louis</Capital>
+    <ISO_4217_Currency_Code>MUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rupee</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>230</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MU</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MUS</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>480</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mu</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Mayotte</Common_Name>
+    <Formal_Name>Departmental Collectivity of Mayotte</Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Overseas Collectivity</Sub_Type>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Mamoudzou</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>262</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>YT</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MYT</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>175</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.yt</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Mexico</Common_Name>
+    <Formal_Name>United Mexican States</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Mexico</Capital>
+    <ISO_4217_Currency_Code>MXN</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Peso</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>52</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MX</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MEX</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>484</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mx</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Micronesia</Common_Name>
+    <Formal_Name>Federated States of Micronesia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Palikir</Capital>
+    <ISO_4217_Currency_Code>USD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>691</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>FM</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>FSM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>583</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.fm</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Moldova</Common_Name>
+    <Formal_Name>Republic of Moldova</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Chisinau</Capital>
+    <ISO_4217_Currency_Code>MDL</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Leu</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>373</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MD</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MDA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>498</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.md</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Monaco</Common_Name>
+    <Formal_Name>Principality of Monaco</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Monaco</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>377</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MC</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MCO</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>492</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mc</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Mongolia</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Ulaanbaatar</Capital>
+    <ISO_4217_Currency_Code>MNT</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Tugrik</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>976</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MN</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MNG</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>496</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mn</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Montenegro</Common_Name>
+    <Formal_Name>Republic of Montenegro</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Podgorica</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>382</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>ME</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MNE</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>499</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.me and .yu</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Morocco</Common_Name>
+    <Formal_Name>Kingdom of Morocco</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Rabat</Capital>
+    <ISO_4217_Currency_Code>MAD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dirham</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>212</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MA</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MAR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>504</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ma</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Mozambique</Common_Name>
+    <Formal_Name>Republic of Mozambique</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Maputo</Capital>
+    <ISO_4217_Currency_Code>MZM</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Meticail</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>258</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MZ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MOZ</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>508</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mz</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Myanmar (Burma)</Common_Name>
+    <Formal_Name>Union of Myanmar</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Naypyidaw</Capital>
+    <ISO_4217_Currency_Code>MMK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Kyat</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>95</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>MM</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>MMR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>104</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.mm</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Nagorno-Karabakh</Common_Name>
+    <Formal_Name>Nagorno-Karabakh Republic</Formal_Name>
+    <Type>Proto Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Stepanakert</Capital>
+    <ISO_4217_Currency_Code>AMD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dram</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>277</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AZ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>AZE</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>31</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.az</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Namibia</Common_Name>
+    <Formal_Name>Republic of Namibia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Windhoek</Capital>
+    <ISO_4217_Currency_Code>NAD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>264</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>NA</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>NAM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>516</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.na</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Nauru</Common_Name>
+    <Formal_Name>Republic of Nauru</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Yaren</Capital>
+    <ISO_4217_Currency_Code>AUD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>674</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>NR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>NRU</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>520</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.nr</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Nepal</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Kathmandu</Capital>
+    <ISO_4217_Currency_Code>NPR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rupee</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>977</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>NP</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>NPL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>524</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.np</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Netherlands</Common_Name>
+    <Formal_Name>Kingdom of the Netherlands</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Amsterdam (administrative) and The Hague (legislative/judical)</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>31</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>NL</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>NLD</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>528</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.nl</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Netherlands Antilles</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Proto Dependency</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty>Netherlands</Sovereignty>
+    <Capital>Willemstad</Capital>
+    <ISO_4217_Currency_Code>ANG</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Guilder</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>599</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AN</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ANT</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>530</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.an</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>New Caledonia</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Sui generis Collectivity</Sub_Type>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Noumea</Capital>
+    <ISO_4217_Currency_Code>XPF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>687</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>NC</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>NCL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>540</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.nc</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>New Zealand</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Wellington</Capital>
+    <ISO_4217_Currency_Code>NZD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>64</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>NZ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>NZL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>554</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.nz</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Nicaragua</Common_Name>
+    <Formal_Name>Republic of Nicaragua</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Managua</Capital>
+    <ISO_4217_Currency_Code>NIO</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Cordoba</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>505</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>NI</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>NIC</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>558</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ni</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Niger</Common_Name>
+    <Formal_Name>Republic of Niger</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Niamey</Capital>
+    <ISO_4217_Currency_Code>XOF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>227</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>NE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>NER</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>562</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ne</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Nigeria</Common_Name>
+    <Formal_Name>Federal Republic of Nigeria</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Abuja</Capital>
+    <ISO_4217_Currency_Code>NGN</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Naira</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>234</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>NG</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>NGA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>566</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ng</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Niue</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Self-Governing in Free Association</Sub_Type>
+    <Sovereignty>New Zealand</Sovereignty>
+    <Capital>Alofi</Capital>
+    <ISO_4217_Currency_Code>NZD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>683</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>NU</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>NIU</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>570</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.nu</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Norfolk Island</Common_Name>
+    <Formal_Name>Territory of Norfolk Island</Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>External Territory</Sub_Type>
+    <Sovereignty>Australia</Sovereignty>
+    <Capital>Kingston</Capital>
+    <ISO_4217_Currency_Code>AUD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>672</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>NF</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>NFK</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>574</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.nf</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Norway</Common_Name>
+    <Formal_Name>Kingdom of Norway</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Oslo</Capital>
+    <ISO_4217_Currency_Code>NOK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Krone</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>47</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>NO</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>NOR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>578</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.no</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Oman</Common_Name>
+    <Formal_Name>Sultanate of Oman</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Muscat</Capital>
+    <ISO_4217_Currency_Code>OMR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rial</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>968</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>OM</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>OMN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>512</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.om</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Pakistan</Common_Name>
+    <Formal_Name>Islamic Republic of Pakistan</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Islamabad</Capital>
+    <ISO_4217_Currency_Code>PKR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rupee</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>92</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>PK</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>PAK</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>586</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.pk</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Palau</Common_Name>
+    <Formal_Name>Republic of Palau</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Melekeok</Capital>
+    <ISO_4217_Currency_Code>USD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>680</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>PW</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>PLW</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>585</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.pw</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Panama</Common_Name>
+    <Formal_Name>Republic of Panama</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Panama</Capital>
+    <ISO_4217_Currency_Code>PAB</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Balboa</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>507</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>PA</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>PAN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>591</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.pa</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Papua New Guinea</Common_Name>
+    <Formal_Name>Independent State of Papua New Guinea</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Port Moresby</Capital>
+    <ISO_4217_Currency_Code>PGK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Kina</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>675</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>PG</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>PNG</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>598</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.pg</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Paraguay</Common_Name>
+    <Formal_Name>Republic of Paraguay</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Asuncion</Capital>
+    <ISO_4217_Currency_Code>PYG</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Guarani</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>595</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>PY</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>PRY</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>600</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.py</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Peru</Common_Name>
+    <Formal_Name>Republic of Peru</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Lima</Capital>
+    <ISO_4217_Currency_Code>PEN</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Sol</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>51</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>PE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>PER</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>604</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.pe</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Philippines</Common_Name>
+    <Formal_Name>Republic of the Philippines</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Manila</Capital>
+    <ISO_4217_Currency_Code>PHP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Peso</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>63</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>PH</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>PHL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>608</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ph</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Poland</Common_Name>
+    <Formal_Name>Republic of Poland</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Warsaw</Capital>
+    <ISO_4217_Currency_Code>PLN</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Zloty</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>48</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>PL</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>POL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>616</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.pl</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Portugal</Common_Name>
+    <Formal_Name>Portuguese Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Lisbon</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>351</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>PT</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>PRT</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>620</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.pt</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Qatar</Common_Name>
+    <Formal_Name>State of Qatar</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Doha</Capital>
+    <ISO_4217_Currency_Code>QAR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rial</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>974</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>QA</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>QAT</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>634</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.qa</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Reunion</Common_Name>
+    <Formal_Name>Overseas Region of Reunion</Formal_Name>
+    <Type>Proto Dependency</Type>
+    <Sub_Type>Overseas Region</Sub_Type>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Saint-Denis</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>262</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>RE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>REU</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>638</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.re</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Romania</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Bucharest</Capital>
+    <ISO_4217_Currency_Code>RON</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Leu</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>40</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>RO</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ROU</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>642</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ro</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Russia</Common_Name>
+    <Formal_Name>Russian Federation</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Moscow</Capital>
+    <ISO_4217_Currency_Code>RUB</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Ruble</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>7</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>RU</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>RUS</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>643</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ru and .su</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Rwanda</Common_Name>
+    <Formal_Name>Republic of Rwanda</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Kigali</Capital>
+    <ISO_4217_Currency_Code>RWF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>250</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>RW</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>RWA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>646</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.rw</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Saint Barthelemy</Common_Name>
+    <Formal_Name>Collectivity of Saint Barthelemy</Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Overseas Collectivity</Sub_Type>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Gustavia</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>590</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GP</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GLP</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>312</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gp</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Saint Helena</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Overseas Territory</Sub_Type>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Jamestown</Capital>
+    <ISO_4217_Currency_Code>SHP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pound</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>290</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SH</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SHN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>654</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sh</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Saint Martin</Common_Name>
+    <Formal_Name>Collectivity of Saint Martin</Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Overseas Collectivity</Sub_Type>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Marigot</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>590</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GP</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GLP</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>312</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.gp</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Saint Pierre and Miquelon</Common_Name>
+    <Formal_Name>Territorial Collectivity of Saint Pierre and Miquelon</Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Overseas Collectivity</Sub_Type>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Saint-Pierre</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>508</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>PM</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SPM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>666</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.pm</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Samoa</Common_Name>
+    <Formal_Name>Independent State of Samoa</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Apia</Capital>
+    <ISO_4217_Currency_Code>WST</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Tala</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>685</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>WS</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>WSM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>882</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ws</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>San Marino</Common_Name>
+    <Formal_Name>Republic of San Marino</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>San Marino</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>378</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SM</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SMR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>674</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sm</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Sao Tome and Principe</Common_Name>
+    <Formal_Name>Democratic Republic of Sao Tome and Principe</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Sao Tome</Capital>
+    <ISO_4217_Currency_Code>STD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dobra</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>239</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>ST</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>STP</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>678</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.st</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Saudi Arabia</Common_Name>
+    <Formal_Name>Kingdom of Saudi Arabia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Riyadh</Capital>
+    <ISO_4217_Currency_Code>SAR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rial</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>966</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SA</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SAU</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>682</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sa</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Senegal</Common_Name>
+    <Formal_Name>Republic of Senegal</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Dakar</Capital>
+    <ISO_4217_Currency_Code>XOF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>221</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SN</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SEN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>686</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sn</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Serbia</Common_Name>
+    <Formal_Name>Republic of Serbia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Belgrade</Capital>
+    <ISO_4217_Currency_Code>RSD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dinar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>381</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>RS</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SRB</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>688</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.rs and .yu</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Seychelles</Common_Name>
+    <Formal_Name>Republic of Seychelles</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Victoria</Capital>
+    <ISO_4217_Currency_Code>SCR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rupee</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>248</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SC</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SYC</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>690</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sc</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Sierra Leone</Common_Name>
+    <Formal_Name>Republic of Sierra Leone</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Freetown</Capital>
+    <ISO_4217_Currency_Code>SLL</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Leone</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>232</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SL</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SLE</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>694</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sl</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Singapore</Common_Name>
+    <Formal_Name>Republic of Singapore</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Singapore</Capital>
+    <ISO_4217_Currency_Code>SGD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>65</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SG</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SGP</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>702</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sg</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Slovakia</Common_Name>
+    <Formal_Name>Slovak Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Bratislava</Capital>
+    <ISO_4217_Currency_Code>SKK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Koruna</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>421</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SK</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SVK</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>703</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sk</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Slovenia</Common_Name>
+    <Formal_Name>Republic of Slovenia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Ljubljana</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>386</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SI</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SVN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>705</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.si</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Solomon Islands</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Honiara</Capital>
+    <ISO_4217_Currency_Code>SBD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>677</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SB</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SLB</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>90</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sb</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Somalia</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Mogadishu</Capital>
+    <ISO_4217_Currency_Code>SOS</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Shilling</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>252</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SO</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SOM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>706</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.so</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Somaliland</Common_Name>
+    <Formal_Name>Republic of Somaliland</Formal_Name>
+    <Type>Proto Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Hargeisa</Capital>
+    <ISO_4217_Currency_Code></ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Shilling</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>252</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SO</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SOM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>706</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.so</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>South Africa</Common_Name>
+    <Formal_Name>Republic of South Africa</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Pretoria (administrative), Cape Town (legislative), and Bloemfontein (judical)</Capital>
+    <ISO_4217_Currency_Code>ZAR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rand</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>27</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>ZA</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ZAF</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>710</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.za</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>South Ossetia</Common_Name>
+    <Formal_Name>Republic of South Ossetia</Formal_Name>
+    <Type>Proto Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Tskhinvali</Capital>
+    <ISO_4217_Currency_Code>RUB and GEL</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Ruble and Lari</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>995</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GEO</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>268</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ge</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Spain</Common_Name>
+    <Formal_Name>Kingdom of Spain</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Madrid</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>34</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>ES</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ESP</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>724</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.es</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Sri Lanka</Common_Name>
+    <Formal_Name>Democratic Socialist Republic of Sri Lanka</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Colombo (administrative/judical) and Sri Jayewardenepura Kotte (legislative)</Capital>
+    <ISO_4217_Currency_Code>LKR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rupee</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>94</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>LK</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>LKA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>144</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.lk</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Sudan</Common_Name>
+    <Formal_Name>Republic of the Sudan</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Khartoum</Capital>
+    <ISO_4217_Currency_Code>SDD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dinar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>249</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SD</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SDN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>736</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sd</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Suriname</Common_Name>
+    <Formal_Name>Republic of Suriname</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Paramaribo</Capital>
+    <ISO_4217_Currency_Code>SRD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>597</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SUR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>740</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sr</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Svalbard</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Proto Dependency</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty>Norway</Sovereignty>
+    <Capital>Longyearbyen</Capital>
+    <ISO_4217_Currency_Code>NOK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Krone</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>47</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SJ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SJM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>744</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sj</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Swaziland</Common_Name>
+    <Formal_Name>Kingdom of Swaziland</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Mbabane (administrative) and Lobamba (legislative)</Capital>
+    <ISO_4217_Currency_Code>SZL</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Lilangeni</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>268</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SZ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SWZ</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>748</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sz</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Sweden</Common_Name>
+    <Formal_Name>Kingdom of Sweden</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Stockholm</Capital>
+    <ISO_4217_Currency_Code>SEK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Kronoa</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>46</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SWE</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>752</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.se</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Switzerland</Common_Name>
+    <Formal_Name>Swiss Confederation</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Bern</Capital>
+    <ISO_4217_Currency_Code>CHF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>41</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>CH</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>CHE</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>756</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ch</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Syria</Common_Name>
+    <Formal_Name>Syrian Arab Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Damascus</Capital>
+    <ISO_4217_Currency_Code>SYP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pound</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>963</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>SY</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>SYR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>760</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.sy</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Tajikistan</Common_Name>
+    <Formal_Name>Republic of Tajikistan</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Dushanbe</Capital>
+    <ISO_4217_Currency_Code>TJS</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Somoni</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>992</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TJ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>TJK</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>762</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.tj</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Tanzania</Common_Name>
+    <Formal_Name>United Republic of Tanzania</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Dar es Salaam (administrative/judical) and Dodoma (legislative)</Capital>
+    <ISO_4217_Currency_Code>TZS</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Shilling</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>255</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TZ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>TZA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>834</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.tz</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Thailand</Common_Name>
+    <Formal_Name>Kingdom of Thailand</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Bangkok</Capital>
+    <ISO_4217_Currency_Code>THB</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Baht</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>66</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TH</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>THA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>764</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.th</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Timor-Leste (East Timor)</Common_Name>
+    <Formal_Name>Democratic Republic of Timor-Leste</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Dili</Capital>
+    <ISO_4217_Currency_Code>USD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>670</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TL</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>TLS</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>626</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.tp and .tl</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Togo</Common_Name>
+    <Formal_Name>Togolese Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Lome</Capital>
+    <ISO_4217_Currency_Code>XOF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>228</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TG</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>TGO</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>768</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.tg</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Tokelau</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Territory</Sub_Type>
+    <Sovereignty>New Zealand</Sovereignty>
+    <Capital></Capital>
+    <ISO_4217_Currency_Code>NZD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>690</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TK</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>TKL</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>772</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.tk</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Tonga</Common_Name>
+    <Formal_Name>Kingdom of Tonga</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Nuku&apos;alofa</Capital>
+    <ISO_4217_Currency_Code>TOP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pa&apos;anga</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>676</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TO</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>TON</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>776</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.to</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Tunisia</Common_Name>
+    <Formal_Name>Tunisian Republic</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Tunis</Capital>
+    <ISO_4217_Currency_Code>TND</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dinar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>216</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TN</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>TUN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>788</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.tn</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Turkey</Common_Name>
+    <Formal_Name>Republic of Turkey</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Ankara</Capital>
+    <ISO_4217_Currency_Code>TRY</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Lira</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>90</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TR</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>TUR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>792</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.tr</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Turkmenistan</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Ashgabat</Capital>
+    <ISO_4217_Currency_Code>TMM</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Manat</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>993</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TM</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>TKM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>795</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.tm</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Tuvalu</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Funafuti</Capital>
+    <ISO_4217_Currency_Code>AUD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>688</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>TV</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>TUV</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>798</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.tv</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Uganda</Common_Name>
+    <Formal_Name>Republic of Uganda</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Kampala</Capital>
+    <ISO_4217_Currency_Code>UGX</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Shilling</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>256</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>UG</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>UGA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>800</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ug</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Ukraine</Common_Name>
+    <Formal_Name></Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Kiev</Capital>
+    <ISO_4217_Currency_Code>UAH</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Hryvnia</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>380</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>UA</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>UKR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>804</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ua</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>United Arab Emirates</Common_Name>
+    <Formal_Name>United Arab Emirates</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Abu Dhabi</Capital>
+    <ISO_4217_Currency_Code>AED</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dirham</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>971</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>AE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ARE</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>784</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ae</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>United Kingdom</Common_Name>
+    <Formal_Name>United Kingdom of Great Britain and Northern Ireland</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>London</Capital>
+    <ISO_4217_Currency_Code>GBP</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Pound</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>44</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>GB</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>GBR</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>826</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.uk</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>United States</Common_Name>
+    <Formal_Name>United States of America</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Washington</Capital>
+    <ISO_4217_Currency_Code>USD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>1</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>US</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>USA</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>840</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.us</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Uruguay</Common_Name>
+    <Formal_Name>Oriental Republic of Uruguay</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Montevideo</Capital>
+    <ISO_4217_Currency_Code>UYU</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Peso</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>598</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>UY</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>URY</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>858</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.uy</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Uzbekistan</Common_Name>
+    <Formal_Name>Republic of Uzbekistan</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Tashkent</Capital>
+    <ISO_4217_Currency_Code>UZS</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Som</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>998</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>UZ</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>UZB</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>860</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.uz</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Vanuatu</Common_Name>
+    <Formal_Name>Republic of Vanuatu</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Port-Vila</Capital>
+    <ISO_4217_Currency_Code>VUV</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Vatu</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>678</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>VU</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>VUT</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>548</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.vu</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Vatican City</Common_Name>
+    <Formal_Name>State of the Vatican City</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Vatican City</Capital>
+    <ISO_4217_Currency_Code>EUR</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Euro</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>379</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>VA</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>VAT</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>336</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.va</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Venezuela</Common_Name>
+    <Formal_Name>Bolivarian Republic of Venezuela</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Caracas</Capital>
+    <ISO_4217_Currency_Code>VEB</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Bolivar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>58</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>VE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>VEN</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>862</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ve</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Vietnam</Common_Name>
+    <Formal_Name>Socialist Republic of Vietnam</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Hanoi</Capital>
+    <ISO_4217_Currency_Code>VND</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dong</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>84</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>VN</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>VNM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>704</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.vn</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Wallis and Futuna</Common_Name>
+    <Formal_Name>Collectivity of the Wallis and Futuna Islands</Formal_Name>
+    <Type>Dependency</Type>
+    <Sub_Type>Overseas Collectivity</Sub_Type>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Mata&apos;utu</Capital>
+    <ISO_4217_Currency_Code>XPF</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Franc</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>681</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>WF</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>WLF</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>876</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.wf</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Yemen</Common_Name>
+    <Formal_Name>Republic of Yemen</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Sanaa</Capital>
+    <ISO_4217_Currency_Code>YER</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Rial</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>967</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>YE</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>YEM</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>887</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.ye</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Zambia</Common_Name>
+    <Formal_Name>Republic of Zambia</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Lusaka</Capital>
+    <ISO_4217_Currency_Code>ZMK</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Kwacha</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>260</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>ZM</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ZMB</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>894</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.zm</IANA_Country_Code_TLD>
+  </ROW>
+  <ROW>
+    <Common_Name>Zimbabwe</Common_Name>
+    <Formal_Name>Republic of Zimbabwe</Formal_Name>
+    <Type>Independent State</Type>
+    <Sub_Type></Sub_Type>
+    <Sovereignty></Sovereignty>
+    <Capital>Harare</Capital>
+    <ISO_4217_Currency_Code>ZWD</ISO_4217_Currency_Code>
+    <ISO_4217_Currency_Name>Dollar</ISO_4217_Currency_Name>
+    <ITU-T_Telephone_Code>263</ITU-T_Telephone_Code>
+    <ISO_3166-1_2_Letter_Code>ZW</ISO_3166-1_2_Letter_Code>
+    <ISO_3166-1_3_Letter_Code>ZWE</ISO_3166-1_3_Letter_Code>
+    <ISO_3166-1_Number>716</ISO_3166-1_Number>
+    <IANA_Country_Code_TLD>.zw</IANA_Country_Code_TLD>
+  </ROW>
+</ROWSET>

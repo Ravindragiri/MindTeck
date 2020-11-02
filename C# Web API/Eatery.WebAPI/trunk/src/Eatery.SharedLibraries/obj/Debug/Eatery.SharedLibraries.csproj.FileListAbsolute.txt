@@ -1,0 +1,6 @@
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.SharedLibraries\bin\Debug\Eatery.SharedLibraries.dll
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.SharedLibraries\bin\Debug\Eatery.SharedLibraries.pdb
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.SharedLibraries\obj\Debug\Eatery.SharedLibraries.csprojAssemblyReference.cache
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.SharedLibraries\obj\Debug\Eatery.SharedLibraries.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.SharedLibraries\obj\Debug\Eatery.SharedLibraries.dll
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.SharedLibraries\obj\Debug\Eatery.SharedLibraries.pdb

@@ -1,0 +1,44 @@
+D:\Personal\Projects\KaamKaaj\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.Business.Interface.dll
+D:\Personal\Projects\KaamKaaj\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.Business.Interface.pdb
+D:\Personal\Projects\KaamKaaj\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.DTO.dll
+D:\Personal\Projects\KaamKaaj\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.DTO.pdb
+D:\Personal\Projects\KaamKaaj\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\KaamKaaj\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.dll
+D:\Personal\Projects\KaamKaaj\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.pdb
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.Business.Interface.dll
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.Business.Interface.pdb
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.DTO.dll
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.DTO.pdb
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.dll
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.pdb
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.Business.Interface.dll
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.Business.Interface.pdb
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.DTO.dll
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.DTO.pdb
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.dll
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.Business.Interface.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.Business.Interface.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.DTO.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.DTO.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.pdb
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.Business.Interface.dll
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.Business.Interface.pdb
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.DTO.dll
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.DTO.pdb
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.csprojResolveAssemblyReference.cache
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.dll
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.pdb
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.Business.Interface.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.Business.Interface.pdb
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.DTO.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Debug\KaamKaaj.DTO.pdb
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.csprojAssemblyReference.cache
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.csproj.CopyComplete
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Debug\KaamKaaj.Business.Interface.pdb

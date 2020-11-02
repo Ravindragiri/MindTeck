@@ -1,0 +1,7 @@
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Release\KaamKaaj.Business.Interface.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Release\KaamKaaj.Business.Interface.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Release\KaamKaaj.DTO.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\bin\Release\KaamKaaj.DTO.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Release\KaamKaaj.Business.Interface.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Release\KaamKaaj.Business.Interface.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Business.Interface\obj\Release\KaamKaaj.Business.Interface.pdb

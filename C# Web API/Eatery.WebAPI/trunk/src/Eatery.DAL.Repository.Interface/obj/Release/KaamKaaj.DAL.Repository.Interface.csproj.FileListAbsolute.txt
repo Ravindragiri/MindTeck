@@ -1,0 +1,14 @@
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\bin\Release\KaamKaaj.DAL.Repository.Interface.dll.config
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\bin\Release\KaamKaaj.DAL.Repository.Interface.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\bin\Release\KaamKaaj.DAL.Repository.Interface.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\bin\Release\EntityFramework.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\bin\Release\EntityFramework.SqlServer.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\bin\Release\KaamKaaj.DataContracts.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\bin\Release\KaamKaaj.DTO.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\bin\Release\KaamKaaj.DataContracts.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\bin\Release\KaamKaaj.DTO.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\bin\Release\EntityFramework.xml
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\bin\Release\EntityFramework.SqlServer.xml
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\obj\Release\KaamKaaj.DAL.Repository.Interface.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\obj\Release\KaamKaaj.DAL.Repository.Interface.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DAL.Repository.Interface\obj\Release\KaamKaaj.DAL.Repository.Interface.pdb

@@ -1,0 +1,44 @@
+D:\Personal\Projects\KaamKaaj\KaamKaaj.DTO\bin\Debug\KaamKaaj.DTO.dll
+D:\Personal\Projects\KaamKaaj\KaamKaaj.DTO\bin\Debug\KaamKaaj.DTO.pdb
+D:\Personal\Projects\KaamKaaj\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.dll
+D:\Personal\Projects\KaamKaaj\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.pdb
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.DTO\bin\Debug\KaamKaaj.DTO.dll
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.DTO\bin\Debug\KaamKaaj.DTO.pdb
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.dll
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.pdb
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.DTO\bin\Debug\KaamKaaj.DTO.dll
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.DTO\bin\Debug\KaamKaaj.DTO.pdb
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.dll
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\KaamKaaj.DTO.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\KaamKaaj.DTO.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\MultipartDataMediaFormatter.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\Newtonsoft.Json.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\System.Net.Http.Formatting.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\Newtonsoft.Json.xml
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\System.Net.Http.Formatting.xml
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.csprojResolveAssemblyReference.cache
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\KaamKaaj.DTO.dll
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\KaamKaaj.DTO.pdb
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\MultipartDataMediaFormatter.dll
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\Newtonsoft.Json.dll
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\System.Net.Http.Formatting.dll
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\Newtonsoft.Json.xml
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\System.Net.Http.Formatting.xml
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.csprojResolveAssemblyReference.cache
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.dll
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.pdb
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\KaamKaaj.DTO.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\KaamKaaj.DTO.pdb
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\MultipartDataMediaFormatter.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\System.Net.Http.Formatting.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\bin\Debug\System.Net.Http.Formatting.xml
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.csproj.CopyComplete
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DTO\obj\Debug\KaamKaaj.DTO.pdb

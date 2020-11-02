@@ -1,0 +1,25 @@
+D:\Personal\Projects\KaamKaaj\KaamKaaj.SharedLibraries\bin\Debug\KaamKaaj.SharedLibraries.dll
+D:\Personal\Projects\KaamKaaj\KaamKaaj.SharedLibraries\bin\Debug\KaamKaaj.SharedLibraries.pdb
+D:\Personal\Projects\KaamKaaj\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.dll
+D:\Personal\Projects\KaamKaaj\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.pdb
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.SharedLibraries\bin\Debug\KaamKaaj.SharedLibraries.dll
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.SharedLibraries\bin\Debug\KaamKaaj.SharedLibraries.pdb
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.dll
+D:\Personal\Projects\KaamKaaj .local\trunk\src\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.pdb
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.SharedLibraries\bin\Debug\KaamKaaj.SharedLibraries.dll
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.SharedLibraries\bin\Debug\KaamKaaj.SharedLibraries.pdb
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.dll
+D:\Personal\Projects\KaamKaaj\trunk\src\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\bin\Debug\KaamKaaj.SharedLibraries.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\bin\Debug\KaamKaaj.SharedLibraries.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.pdb
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\bin\Debug\KaamKaaj.SharedLibraries.dll
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\bin\Debug\KaamKaaj.SharedLibraries.pdb
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.dll
+H:\D\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.pdb
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\bin\Debug\KaamKaaj.SharedLibraries.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\bin\Debug\KaamKaaj.SharedLibraries.pdb
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\KaamKaaj.WebAPI\trunk\src\KaamKaaj.SharedLibraries\obj\Debug\KaamKaaj.SharedLibraries.pdb

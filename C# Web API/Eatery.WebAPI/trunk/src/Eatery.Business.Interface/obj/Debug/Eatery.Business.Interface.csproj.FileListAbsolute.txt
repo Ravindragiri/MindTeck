@@ -1,0 +1,9 @@
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business.Interface\bin\Debug\Eatery.Business.Interface.dll
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business.Interface\bin\Debug\Eatery.Business.Interface.pdb
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business.Interface\bin\Debug\Eatery.DTO.dll
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business.Interface\bin\Debug\Eatery.DTO.pdb
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business.Interface\obj\Debug\Eatery.Business.Interface.csprojAssemblyReference.cache
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business.Interface\obj\Debug\Eatery.Business.Interface.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business.Interface\obj\Debug\Eatery.Business.Interface.csproj.CopyComplete
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business.Interface\obj\Debug\Eatery.Business.Interface.dll
+C:\Personal\Assessment\MindTeck\Eatery\Eatery.WebAPI\trunk\src\Eatery.Business.Interface\obj\Debug\Eatery.Business.Interface.pdb

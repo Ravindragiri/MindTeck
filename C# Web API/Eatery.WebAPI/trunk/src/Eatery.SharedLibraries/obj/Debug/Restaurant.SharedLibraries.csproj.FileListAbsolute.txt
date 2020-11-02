@@ -1,0 +1,10 @@
+C:\Personal\Assessment\MindTeck\KaamKaaj\Restaurant.WebAPI\trunk\src\Restaurant.SharedLibraries\bin\Debug\Restaurant.SharedLibraries.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\Restaurant.WebAPI\trunk\src\Restaurant.SharedLibraries\bin\Debug\Restaurant.SharedLibraries.pdb
+C:\Personal\Assessment\MindTeck\KaamKaaj\Restaurant.WebAPI\trunk\src\Restaurant.SharedLibraries\obj\Debug\Restaurant.SharedLibraries.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\KaamKaaj\Restaurant.WebAPI\trunk\src\Restaurant.SharedLibraries\obj\Debug\Restaurant.SharedLibraries.dll
+C:\Personal\Assessment\MindTeck\KaamKaaj\Restaurant.WebAPI\trunk\src\Restaurant.SharedLibraries\obj\Debug\Restaurant.SharedLibraries.pdb
+C:\Personal\Assessment\MindTeck\Restaurant\Restaurant.WebAPI\trunk\src\Restaurant.SharedLibraries\bin\Debug\Restaurant.SharedLibraries.dll
+C:\Personal\Assessment\MindTeck\Restaurant\Restaurant.WebAPI\trunk\src\Restaurant.SharedLibraries\bin\Debug\Restaurant.SharedLibraries.pdb
+C:\Personal\Assessment\MindTeck\Restaurant\Restaurant.WebAPI\trunk\src\Restaurant.SharedLibraries\obj\Debug\Restaurant.SharedLibraries.csproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\Restaurant\Restaurant.WebAPI\trunk\src\Restaurant.SharedLibraries\obj\Debug\Restaurant.SharedLibraries.dll
+C:\Personal\Assessment\MindTeck\Restaurant\Restaurant.WebAPI\trunk\src\Restaurant.SharedLibraries\obj\Debug\Restaurant.SharedLibraries.pdb

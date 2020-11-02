@@ -1,0 +1,14 @@
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\bin\Release\KaamKaaj.Common.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\bin\Release\KaamKaaj.Common.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\bin\Release\AutoMapper.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\bin\Release\Newtonsoft.Json.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\bin\Release\AutoMapper.xml
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\obj\Release\KaamKaaj.Common.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\obj\Release\KaamKaaj.Common.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.Common\obj\Release\KaamKaaj.Common.pdb

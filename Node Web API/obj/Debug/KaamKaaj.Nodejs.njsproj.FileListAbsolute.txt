@@ -1,0 +1,6 @@
+D:\Personal\Projects\Bitbucket\KaamKaaj.Nodejs\obj\Debug\KaamKaaj.Nodejs.njsprojResolveAssemblyReference.cache
+D:\Personal\Projects\Bitbucket\KaamKaaj.Nodejs\bin\Microsoft.NodejsTools.WebRole.dll
+D:\Personal\Projects\Bitbucket\Mean Stack\obj\Debug\KaamKaaj.Nodejs.njsprojResolveAssemblyReference.cache
+D:\Personal\Projects\Bitbucket\Mean Stack\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Personal\Bitbucket\Mean Stack\obj\Debug\KaamKaaj.Nodejs.njsprojResolveAssemblyReference.cache
+C:\Personal\Bitbucket\Mean Stack\bin\Microsoft.NodejsTools.WebRole.dll

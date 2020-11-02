@@ -1,0 +1,2 @@
+C:\Personal\Assessment\MindTeck\MeanStack\Mean Stack\obj\Debug\Eatery.Nodejs.njsproj.CoreCompileInputs.cache
+C:\Personal\Assessment\MindTeck\MeanStack\Mean Stack\bin\Microsoft.NodejsTools.WebRole.dll

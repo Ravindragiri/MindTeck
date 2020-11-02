@@ -1,0 +1,5 @@
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\bin\Release\KaamKaaj.DataContracts.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\bin\Release\KaamKaaj.DataContracts.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\obj\Release\KaamKaaj.DataContracts.dll
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\obj\Release\KaamKaaj.DataContracts.pdb
+D:\Personal\Projects\Bitbucket\KaamKaaj.WebAPI\trunk\src\KaamKaaj.DataContracts\obj\Release\KaamKaaj.DataContracts.csprojResolveAssemblyReference.cache
