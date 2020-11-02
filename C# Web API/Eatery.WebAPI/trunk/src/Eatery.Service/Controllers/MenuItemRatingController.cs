@@ -18,7 +18,7 @@ namespace Eatery.Service.Controllers
         }
 
         [HttpPost]
-        public IHttpActionResult Add(MenuItemRatingDTO ratingDTO, int userID)
+        public IHttpActionResult Add(MenuItemRatingDTO ratingDTO)
         {
             bool rtnVal = false;
 
@@ -30,7 +30,7 @@ namespace Eatery.Service.Controllers
                     {
                         return BadRequest(ModelState);
                     }
-                    rtnVal = this._menuItemRatingBL.Add(ratingDTO, userID);
+                    rtnVal = this._menuItemRatingBL.Add(ratingDTO);
                 }
                 catch (Exception ex)
                 {

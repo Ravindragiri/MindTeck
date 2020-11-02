@@ -9,7 +9,7 @@ namespace Eatery.Business.Interface
 {
     public interface IMenuItemRatingBL
     {
-        bool Add(MenuItemRatingDTO ratingDTO, int userID);
+        bool Add(MenuItemRatingDTO ratingDTO);
         bool Remove(MenuItemRatingDTO rating);
     }
 }

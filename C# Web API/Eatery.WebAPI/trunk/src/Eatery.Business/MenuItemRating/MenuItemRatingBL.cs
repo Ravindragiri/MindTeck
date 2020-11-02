@@ -25,15 +25,15 @@ namespace Eatery.Business
             this._unitOfWork = unitOfWork;
         }
 
-        public bool Add(MenuItemRatingDTO ratingDTO, int userID)
+        public bool Add(MenuItemRatingDTO ratingDTO)
         {
             if (ratingDTO != null)
             {
                 using (IEateryDbContext context = _unitOfWork.GetEateryDbContext())
                 {
                     MenuItemRating rating = ObjectTypeConverter.Convert<MenuItemRatingDTO, MenuItemRating>(ratingDTO);
-                    rating.CreatedBy = userID;
-                    rating.CreatedDate = DateTime.Now;
+                    //rating.CreatedBy = ratingDTO.userID;
+                    //rating.CreatedDate = DateTime.Now;
 
                     this._menuItemRatingRepository.Add(context, rating);
                     _unitOfWork.Commit(context);

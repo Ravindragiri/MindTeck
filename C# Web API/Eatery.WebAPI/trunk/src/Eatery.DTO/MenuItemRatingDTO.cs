@@ -9,6 +9,7 @@ namespace Eatery.DTO
     public class MenuItemRatingDTO
     {
         public int? ID { get; set; }
+        public int? userID { get; set; }
         public int MenuItemID { get; set; }
         public int RatingValue { get; set; }
     }
